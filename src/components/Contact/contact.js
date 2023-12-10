@@ -30,7 +30,7 @@ const Contact = () => {
         <div id='clients'>
             <h1 className='contactPageTitle'>My Clients</h1>
             <p className='clientDesc'>
-                I have had the opportunity to work with a diverse group of companies. 
+                I have had the opportunity to work with a diverse groups of companies. 
                 Some of the notable companies I have worked with includes 
             </p>
             <div className='clientImgs'>
